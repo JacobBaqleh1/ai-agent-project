@@ -1,0 +1,1 @@
+get_file_content("calculator", "lorem.txt")
